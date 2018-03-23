@@ -9,7 +9,7 @@ class Student
 	}
 }
 
-public class GFG
+public class test_jenkins
 {
 	public static void main (String[] args)
 	{
